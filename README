@@ -1,0 +1,41 @@
+-- RMU SESSION 3 PROBLEM 3
+
+If in doubt about how to submit, see SUBMISSION_GUIDELINES file.
+
+In this exercise, we'll be exploring object oriented design principles, taking a
+look at the concept of Connascence in particular.  In this exercise, we'll work
+to create realistic examples of these high level concepts in action.
+
+== GUIDELINES
+
+- Start by watching the following talk from Jim Weirich.  It's recommended to
+  watch the whole thing, but the essential material begins at 16 minutes and
+  runs until the end of the talk:
+
+  http://confreaks.net/videos/77-mwrc2009-the-building-blocks-of-modularity
+
+- Create a realistic example for each of these types of Connascence:
+  * Connascence of Position
+  * Connascence of Meaning
+  * Connascence of Algorithm
+
+- Show how each of the above types of Connascence can be refactored
+  down to Connascence of Name
+
+- Show an example of Contranascence as well as how to avoid the problems associated
+  with it.
+
+- Try to pick good examples that look like they could be from real code, and 
+  avoid duplication of other student's work by describing your scenarios on the
+  mailing list or IRC as you work on them.
+
+- Do not re-use the examples from Jim's talk.
+
+- Feel free to use real code from an existing project (your own, another
+  student's, or an open source project) to form your examples if you'd like.
+
+== QUESTIONS?
+
+Hit up the mailing list or IRC.  RMU exercises are left deliberately open ended,
+and often benefit from some discussion before, during, and after you work on
+them.
